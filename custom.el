@@ -1,0 +1,20 @@
+(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(custom-safe-themes
+   '("2af6d337981b88f85980124e47e11cbff819200bba92648f59154a6ff35a7801" "799ceed53273d15b3539cc91b25d728399fe967f78f13ca21659cb7dcb23bd8c" "46e9b34ca8971629e5ad94694d7a3894b587d8a8fd7c6703fa2fd51d4317ac91" "4dcf06273c9f5f0e01cea95e5f71c3b6ee506f192d75ffda639d737964e2e14e" "d50da51d7dc41c7fc1ce9409a74fd7661540dc4bf54ef55148e59a7763318112" "798d594c14cfb510a09523dcab25a32dc543d68b04acfa29702b533911094198" "bdf2b5b617ea284bf2635f28509b3a5ce3fb1ed82cac00196a71cd8403fa3e60" "d4a02820fada527bad6414f1ba432d87155fa627f3111a226018885d3127f093" "68775557f5ca3c1a710a50dfda36ce76ad1c0baf13bc4b939b4e69eb87fba0fc" "f5b179094d5d1172263af198f315ae85f49bfcd4660f49366f1718ee0e63129d" "2dc03dfb67fbcb7d9c487522c29b7582da20766c9998aaad5e5b63b5c27eec3f" "dc11cee30927281fe3f5c77372119d639e77e86aa794dce2a6ff019afdfbec9e" "5ca9d0a5971e42ecee31398533e5b9dfc01c61a69bf3fd69395aa189c792252e" "b66970f42d765a40fdb2b6b86dd2ab6289bed518cf4d8973919e5f24f0ca537b" "94a94c957cf4a3f8db5f12a7b7e8f3e68f686d76ae8ed6b82bd09f6e6430a32c" "45611797b789abf53e97c43b29c7f10dd6f18971e238e700bc885e702531053a" "15ad9319ac71911ac1593c33846840434d86e84f09c9d2f95fa37d3d981f95b9" "c77866b9ee1cc2fd95cfb55fe99813b95c10f620f51f210de96c8b8bdead4c46" "347313c47366c3cb305fb63dff7df87426061d5529a86c215086fe8581228733" "2a0669753764cc15b818fc882d271fc30850d5a45220a499fb9d835846001b7c" "d2b7abf3fb8e9505a478a04bd6d727a029cab49d58c0fafe271293d095438067" "c01cd0485ce35cf0a19ab91146d2c2b6528ec60ad4c8ffec5b2b7cc4bc05bd80" "9dbd2c6f93cc1774c261f23042be8bf7decc8f6599c21189c04d7791231b2b79" "935cd704a3b4b12c9c0582da1d25437e2802d0f82c5d46de0eb5a968dfad08da" "04a9d8ab1ba3288f88018d1a2ba84be4c21a3b3c0b479005ac2b2ee7d417caa3" "e266d44fa3b75406394b979a3addc9b7f202348099cfde69e74ee6432f781336" "e8567ee21a39c68dbf20e40d29a0f6c1c05681935a41e206f142ab83126153ca" "06ed754b259cb54c30c658502f843937ff19f8b53597ac28577ec33bb084fa52" "d516f1e3e5504c26b1123caa311476dc66d26d379539d12f9f4ed51f10629df3" "3c7a784b90f7abebb213869a21e84da462c26a1fda7e5bd0ffebf6ba12dbd041" "11cc65061e0a5410d6489af42f1d0f0478dbd181a9660f81a692ddc5f948bf34" "04b856ef48419963ad1b22dfe0e2b388e4bb9ee126d84fc0300352afc18732bd" "6128465c3d56c2630732d98a3d1c2438c76a2f296f3c795ebda534d62bb8a0e3" "9cd57dd6d61cdf4f6aef3102c4cc2cfc04f5884d4f40b2c90a866c9b6267f2b3" "37768a79b479684b0756dec7c0fc7652082910c37d8863c35b702db3f16000f8" "8d68cd652ab405df5db91acc66be58307e008bfac3ddc4beef7d7f814d37026c" "43b78a08f245bc198dadf35b324f445472c92dda3f1b6d1746cefee9f2ade177" "7f954d5bee47a27cc6cc83d1d6b80f7a32d82f744a725375d6e22b65758f9a5e" "06a2eef27703cd3c8b017c90d9025d766ade307971826362c487a5273e14cc5a" "d6c5b14073abc649dad816750ef1ac7d5defdf1630d4e9938e06c38ad547d6da" "0f964c8dbc5a668cc2ba7aa1003792fbbf3000a6ed69c0e53b1eeb2c1afc25cb" "5a00018936fa1df1cd9d54bee02c8a64eafac941453ab48394e2ec2c498b834a" "249e100de137f516d56bcf2e98c1e3f9e1e8a6dce50726c974fa6838fbfcec6b" default))
+ '(elfeed-feeds
+   '(("https://ithome.com/rss" news)
+     ("https://www.reddit.com/r/emacs/.rss" Emacs)))
+ '(package-selected-packages
+   '(dirvish projectile-ripgrep consult-org-roam format-all counsel org-fragtog sdcv youdao-dictionary google-translate bing-dict exec-path-from-shell telega all-the-icons laas nord-theme elfeed-org elfeed sudo-edit ef-themes ivy-prescient pyim org-roam-ui go-translate org-modern kaolin-themes olivetti org-roam doom-modeline paredit markdown-mode)))
+(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(default ((t (:weight normal))))
+ '(tab-bar ((t (:background "#LightGreen"))))
+ '(tab-bar-tab-inactive ((t (:background "#555")))))

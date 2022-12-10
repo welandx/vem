@@ -1,0 +1,9 @@
+* Blogs :elfeed:
+** Emacs :Emacs:
+*** [[https://www.reddit.com/r/emacs/rss][Emacs on Reddit]]
+** News :news:
+*** [[https://www.ithome.com/rss][IT-Home]]
+*** [[https://www.zhihu.com/rss][zhihu]]
+** Game :game:
+*** [[https://www.gcores.com/rss][gcores]]
+

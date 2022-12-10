@@ -1,0 +1,39 @@
+;;;; Emacs Bookmark Format Version 1;;;; -*- coding: utf-8-emacs; mode: lisp-data -*-
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("org-refile-last-stored"
+ (filename . "~/Documents/logseq/pages/史纲.org")
+ (front-context-string . "** 太平天国\n*** 天朝田亩")
+ (rear-context-string . "产阶级维新派不能为中国找到出路\n")
+ (position . 1084))
+("Google"
+ (handler . eaf--bookmark-restore)
+ (eaf-app . "browser")
+ (filename . "https://www.google.com/?gws_rd=ssl"))
+("dt-bili"
+ (handler . eaf--bookmark-restore)
+ (eaf-app . "browser")
+ (filename . "https://t.bilibili.com/?spm_id_from=333.1007.0.0"))
+("github"
+ (handler . eaf--bookmark-restore)
+ (eaf-app . "browser")
+ (filename . "https://github.com/"))
+("Emacs China"
+ (handler . eaf--bookmark-restore)
+ (eaf-app . "browser")
+ (filename . "https://emacs-china.org/"))
+("nga"
+ (handler . eaf--bookmark-restore)
+ (eaf-app . "browser")
+ (filename . "https://nga.178.com/"))
+("shanbe"
+ (handler . eaf--bookmark-restore)
+ (eaf-app . "browser")
+ (filename . "https://web.shanbay.com/wordsweb/#/study/entry"))
+("org-capture-last-stored"
+ (filename . "~/org/roam/20221123101938-一个正态总体的参数假设检验.org")
+ (front-context-string . "\n[[video:https:/")
+ (rear-context-string . "验\n#+filetags:  \n")
+ (position . 105))
+)
